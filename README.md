@@ -1,7 +1,6 @@
-# React-Top-Course
 # Getting Started with Create React App </hr>
 This project was bootstrapped with Create React App.
-# Available Scripts
+<b>Available Scripts</b>
 In the project directory, you can run:
 
 # npm start
