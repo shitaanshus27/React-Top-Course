@@ -12,12 +12,12 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-npm test
+<b>npm test</b>
 
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-npm run build
+<b>npm run build</b>
 
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -27,7 +27,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-npm run eject
+<b>npm run eject</b>
 
 Note: this is a one-way operation. Once you eject, you can't go back!
 
@@ -43,12 +43,15 @@ You can learn more in the Create React App documentation.
 To learn React, check out the React documentation.
 
 <b>Code Splitting</b>
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 <b>Analyzing the Bundle Size</b>
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 <b>Making a Progressive Web App</b>
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 </b>Advanced Configuration</b>
